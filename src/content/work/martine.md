@@ -22,7 +22,7 @@ Site humoristique sur le thème du voyage, ici une plateforme pour envoyer sa be
 
 ### Fonctionnalités
 
-Le site web est responsive, une fois connecté l'utilisateur
+Le site web est responsive, une fois connecté l'utilisateur peut choisir, en fonction de sa relation avec sa belle-mère, une destination et une durée de séjour.
 ### Compétences
 
 Gestion du temps ici limité à 24h.
