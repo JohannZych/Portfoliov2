@@ -30,6 +30,5 @@ L'ajout d'utilisateurs ou la création de projet génère un envoi de mail aux p
 
 ### Compétences
 
-Gestion du temps ici limité à 48h.
 FrontEnd en HTML/CSS Javascript, BackEnd en Symfony, Architecture MVC, Gestion de Base de Données (MySQL),
 Gestion Authentification Utilisateur, Envoi de mails, Méthodes Agile / Scrum.

@@ -26,6 +26,6 @@ L'application permet de gérer ses candidatures et en suivre l'évolution.
 Simulation d'utilisation d'une API de recherches d'offres et les ajouter dans celles à suivre.
 ### Compétences
 
-Gestion du temps ici limité à 24h.
+Gestion du temps ici limité à 24h et en complète autonomie.
 FrontEnd en HTML/CSS Javascript Boostrap, BackEnd en Symfony, Architecture MVC, Gestion de Base de Données (MySQL),
 Gestion Authentification Utilisateur, Envoi de mails.

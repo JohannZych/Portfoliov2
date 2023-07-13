@@ -19,7 +19,8 @@ tags:
 Pour ce projet, nous devions construire une plateforme communautaire de gardes entre parents.
 Le client nous a imposé des contraintes (Accès uniquement sur invitation, permettre de connaître les parents les plus 
 impliqués en vue d'une gratification, un compte administrateur et des comptes utilisateurs avec accès limité, etc...),
-une charte graphique de couleurs chaudes et une iconographie enfantine pour laquelle nous avons eu recours à l'IA.
+une charte graphique de couleurs chaudes et une iconographie enfantine pour laquelle nous avons eu recours à l'IA pour 
+générer les avatars rappelant les kangourous.
 
 ### Fonctionnalités
 
